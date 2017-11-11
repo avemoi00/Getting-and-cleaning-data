@@ -72,21 +72,21 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 
 
 
-#Variables Description
+# Variables Description
 
 
-feature list - features.txt file
+* feature list - features.txt file
 
-activityLabels - activity_labels.txt file
+* activityLabels - activity_labels.txt file
 
-testSubjects - subject_test.txt file
+* testSubjects - subject_test.txt file
 
-test - X_test.txt
+* test - X_test.txt
 
-testActivities - y_test.txt
+* testActivities - y_test.txt
 
-trainSubjects - subject_train.txt
+* trainSubjects - subject_train.txt
 
-train - train/X_train.txt
+* train - train/X_train.txt
 
-trainActivities -train/Y_train.txt
+* trainActivities -train/Y_train.txt
