@@ -1,7 +1,8 @@
 # Load data.table library to use data.table and fread
 library(data.table)
 # Set working directory path
-path <- '/home/ave/Desktop/R_programming/'
+# ENTER YOUR PATH FOR YOUR WORKING DIRECTORY HERE
+path <- 'MYPATH'
 setwd(path)
 #url of the data 
 url <- 'https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip'
